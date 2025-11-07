@@ -1,0 +1,6 @@
+Experiment Timestamp: 2025-11-06 15:18:56
+ANGLE_THRESHOLD=10.0°, VIS_THRESHOLD=0.5
+Processed: 2 total, 2 valid
+Mean absolute error: 22.60 deg
+Pearson correlation (r): -1.000
+Classification agreement: 50.0%

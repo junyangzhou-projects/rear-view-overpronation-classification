@@ -1,0 +1,3 @@
+filename,side,manual_angle,mediapipe_angle,error_deg,manual_label,mediapipe_label
+normal_sample.jpg,right,8.7,-1.37097,10.07097,normal,normal
+overpronation_sample.jpg,right,17.6,-17.538408,35.138408,overpronation,normal

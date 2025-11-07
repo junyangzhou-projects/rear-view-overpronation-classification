@@ -1,0 +1,24 @@
+{
+  "normal_sample.jpg": {
+    "top": [
+      1991,
+      1751
+    ],
+    "bottom": [
+      2015,
+      3950
+    ],
+    "side": "right"
+  },
+  "overpronation_sample.jpg": {
+    "top": [
+      1713,
+      202
+    ],
+    "bottom": [
+      1823,
+      3019
+    ],
+    "side": "right"
+  }
+}
